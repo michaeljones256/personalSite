@@ -15,8 +15,10 @@
                 <div class="row d-flex justify-content-center">
                   <!--Grid column-->
                   <div class="col-lg-9">
+                    <p>My interest in developing software was sparked after seeing my brothers programming projects in high school. Over the courese of these years my curiousity has lead me down many different paths of learning in software development. I am currently interested in backend development; API's, 
+                      algorithms, and database integrations. Please check out the rest of this page to see some of my recent work!</p>
                   </div>
-                  <!--Grid column-->
+                  
                 </div>
             </div>
         </section>
