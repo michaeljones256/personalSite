@@ -6,7 +6,7 @@
                 <h1 style="font-weight: bold;">Michael Jones</h1>
                 <hr class="style2">
                 <div class= "intro-list">
-                  <ul style="font-size:20px;">
+                  <ul>
                     <li>Software Engineer</li>
                     <li>Student at Syracuse Unviersity</li>
                     <li>LinkedIn: <a href="https://www.linkedin.com/in/michael-wesley-jones/">https://www.linkedin.com/in/michael-wesley-jones</a></li>
@@ -17,7 +17,7 @@
                 <div class="row d-flex justify-content-center">
                   <!--Grid column-->
                   <div class="col-lg-9">
-                    <p style="font-size:20px;">My interest in developing software was sparked after seeing my brothers programming projects in high school. Over the courese of these years my curiousity has lead me down many different paths of learning in software development. I am currently interested in backend development; API's, 
+                    <p>My interest in developing software was sparked after seeing my brothers programming projects in high school. Over the courese of these years my curiousity has lead me down many different paths of learning in software development. I am currently interested in backend development; API's, 
                       algorithms, and database integrations. Please check out the rest of this page to see some of my recent work!</p>
                   </div>
                   
