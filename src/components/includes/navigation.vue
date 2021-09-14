@@ -9,6 +9,7 @@
           <div class="navbar-nav" style = "color: #f48f50;">
             <a class="nav-item nav-link"  style="color: #ffa07a;" href="#projects">Projects <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link"  style="color: #ffa07a;" href="#jobs">Job Experience</a>
+            <a class="nav-item nav-link"  style="color: #ffa07a;" href="#resume">Resume</a>
           </div>
        
         </div>

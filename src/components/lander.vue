@@ -6,16 +6,18 @@
                 <h1 style="font-weight: bold;">Michael Jones</h1>
                 <hr class="style2">
                 <div class= "intro-list">
-                  <ul>
+                  <ul style="font-size:20px;">
                     <li>Software Engineer</li>
                     <li>Student at Syracuse Unviersity</li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/michael-wesley-jones/">https://www.linkedin.com/in/michael-wesley-jones</a></li>
+                    <li>Github: <a href="https://github.com/michaeljones256">https://github.com/michaeljones256</a></li>
                     <li>Hometown: Boston, MA</li>
                   </ul>
                 </div>
                 <div class="row d-flex justify-content-center">
                   <!--Grid column-->
                   <div class="col-lg-9">
-                    <p>My interest in developing software was sparked after seeing my brothers programming projects in high school. Over the courese of these years my curiousity has lead me down many different paths of learning in software development. I am currently interested in backend development; API's, 
+                    <p style="font-size:20px;">My interest in developing software was sparked after seeing my brothers programming projects in high school. Over the courese of these years my curiousity has lead me down many different paths of learning in software development. I am currently interested in backend development; API's, 
                       algorithms, and database integrations. Please check out the rest of this page to see some of my recent work!</p>
                   </div>
                   
@@ -181,7 +183,14 @@
                   </div>
               </div>
           </div>
-          
+        </section>
+        <section id="resume" class="downloadResume">
+          <!--<form method="get" action="./../assets/MichaelJonesSU.pdf">
+            <button class="btn btn-info" type="submit" style="font-size:40px;">Resume.pdf</button>
+          </form>-->
+          <a href="MichaelJonesSU.pdf" download>
+            <button class="btn btn-info" type="submit" style="font-size:40px;">Resume.pdf</button>
+          </a>
         </section>
     </div>
     
@@ -192,7 +201,7 @@
 
     .section{
         padding-top: 4%;
-        padding-bottom: 10%;
+        padding-bottom: 5%;
         font-family: 'Poppins', sans-serif;
         background-color: #464866;
         color:#fff;
@@ -202,8 +211,8 @@
       /*#f48f50*/
         background-color:#ffa07a;
         font-family: 'Poppins', sans-serif;
-        padding-top: 9%;
-        padding-bottom: 5%;
+        padding-top: 5%;
+        padding-bottom: 2%;
         /* padding:15% */
     }
     .work{
@@ -213,6 +222,15 @@
         padding-top: 5%;
         padding-bottom: 9%;
         /* padding:15% */
+    }
+    .downloadResume{
+        background-color:#464866;
+        padding-top: 4%;
+        padding-bottom: 8%;
+        font-family: 'Poppins', sans-serif;
+        font-size:10px;
+        width: 100%; 
+        height: 100px;
     }
     .img-custome{
         width: 140px;
