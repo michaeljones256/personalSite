@@ -226,7 +226,7 @@
     .downloadResume{
         background-color:#464866;
         padding-top: 4%;
-        padding-bottom: 8%;
+        padding-bottom: 13%;
         font-family: 'Poppins', sans-serif;
         font-size:10px;
         width: 100%; 
